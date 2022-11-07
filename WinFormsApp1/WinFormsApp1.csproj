@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <PackageId>принтер</PackageId>
+    <Version>1.0.213</Version>
+    <Authors>IT</Authors>
+    <Company>ITCOM</Company>
+    <Product>Принтер</Product>
+    <Description>данная программа помогает выбрать наиболее подходящий принтер</Description>
+  </PropertyGroup>
+
+</Project>
